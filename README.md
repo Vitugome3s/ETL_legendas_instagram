@@ -24,17 +24,20 @@ Antes de executar o projeto, certifique-se de configurar sua chave da API OpenAI
 
 ```python
 openai_api_key = 'SUA_CHAVE_DA_API_OPENAI'
+```
 
-## Como Usar
+##Como Usar
 
 1. Clone este repositório em seu ambiente local.
 
 2. Instale as dependências necessárias:
 
+```python
 pip install pandas openai
-
+```
 3. Execute o projeto:
 
+```python
 python nome_do_arquivo.py
-
+```
 4. Verifique o arquivo 'tabela_atualizada.csv' para ver as legendas geradas atualizadas para cada empresa.
