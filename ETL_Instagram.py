@@ -3,7 +3,7 @@ import openai
 
 #================================== EXPORT =======================================
 # Configure sua chave da API OpenAI aqui
-openai_api_key = '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'
+openai_api_key = 'SUA-CHAVE'
 openai.api_key = openai_api_key
 
 # Leitura do arquivo CSV
