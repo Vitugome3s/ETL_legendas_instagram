@@ -26,7 +26,7 @@ Antes de executar o projeto, certifique-se de configurar sua chave da API OpenAI
 openai_api_key = 'SUA_CHAVE_DA_API_OPENAI'
 ```
 
-##Como Usar
+## Como Usar
 
 1. Clone este repositório em seu ambiente local.
 
